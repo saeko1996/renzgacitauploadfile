@@ -4,7 +4,7 @@
   <title>upload</title>
 </head>
 <body>
-<a href="UPLOADS.php">
+<a href="fileupload.php">
     <button>to upload click me</button>
 </a>
 
